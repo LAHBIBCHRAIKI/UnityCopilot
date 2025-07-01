@@ -1,4 +1,4 @@
-# 🚀 UnityPilot
+# 🚀 UnityCopilot
 
 > 🧠 Your AI Copilot for Unity Development — Built Right into the Editor
 
@@ -24,7 +24,7 @@
 
 ## 💡 About
 
-**UnityPilot** is an open-source AI assistant designed for Unity developers.
+**UnityCopilot** is an open-source AI assistant designed for Unity developers.
 It integrates directly into the Unity Editor to help you:
 
 * Generate scripts and logic via prompts
@@ -65,7 +65,7 @@ It integrates directly into the Unity Editor to help you:
 ## 🎬 Demo
 
 <!-- Add screenshots or GIFs here when available -->
-*Coming soon: Screenshots and demo videos of UnityPilot in action*
+*Coming soon: Screenshots and demo videos of UnityCopilot in action*
 
 ---
 
@@ -81,22 +81,22 @@ It integrates directly into the Unity Editor to help you:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/GameDevKaran/UnityPilot.git
-cd UnityPilot
+git clone https://github.com/GameDevKaran/UnityCopilot.git
+cd UnityCopilot
 ```
 
 2. **Open in Unity:**
    - Open Unity Hub
-   - Click "Add" and select the cloned UnityPilot folder
-   - Open the project in Unity
+   - Click "Add" and select the cloned UnityCopilot folder
+   - Open the project in Unity (the Unity project is named "UnityPilot")
 
-3. **Access UnityPilot:**
+3. **Access UnityCopilot:**
    - In Unity Editor, go to `Window > UnityPilot`
-   - The UnityPilot panel will open
+   - The UnityCopilot panel will open
 
 4. **Start using:**
    - Enter a prompt like: *"Create a script that spawns a cube every 2 seconds"*
-   - Watch UnityPilot generate and apply the code!
+   - Watch UnityCopilot generate and apply the code!
 
 ---
 
@@ -104,7 +104,7 @@ cd UnityPilot
 
 ### AI Provider Setup (Coming Soon)
 
-UnityPilot will support multiple AI providers:
+UnityCopilot will support multiple AI providers:
 
 - **OpenAI GPT** (GPT-4, GPT-3.5)
 - **Anthropic Claude**
@@ -124,7 +124,7 @@ Configuration will be available directly in the Unity Editor.
 
 ```
 Assets/
-└── UnityPilot/
+└── UnityCopilot/
     └── Editor/
         ├── UI/         # Unity Editor window (UIToolkit)
         ├── Core/       # Prompt handler & templates
@@ -136,10 +136,10 @@ Assets/
 ### 🔁 Data Flow
 
 ```
-[UnityPilot Window] → [Prompt Handler] → [AI Adapter] → [Code Generator] → [Scene Manager]
+[UnityCopilot Window] → [Prompt Handler] → [AI Adapter] → [Code Generator] → [Scene Manager]
 ```
 
-📄 See: `Docs/UnityPilot_Design_Document.pdf`
+📄 See: `Docs/UnityCopilot_Design_Document.pdf`
 
 </details>  
 
@@ -147,7 +147,7 @@ Assets/
 
 ## 🤝 Contributing
 
-We welcome contributions! UnityPilot is currently under active development, but we're open to:
+We welcome contributions! UnityCopilot is currently under active development, but we're open to:
 
 - 🐛 **Bug reports** - Help us identify and fix issues
 - 💡 **Feature suggestions** - Share your ideas for new functionality  
@@ -162,7 +162,7 @@ We welcome contributions! UnityPilot is currently under active development, but 
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-💬 **Want to discuss ideas?** [Open a Discussion](https://github.com/GameDevKaran/UnityPilot/discussions)
+💬 **Want to discuss ideas?** [Open a Discussion](https://github.com/GameDevKaran/UnityCopilot/discussions)
 
 For more details, see our `CONTRIBUTING.md` (coming soon).
 
@@ -170,7 +170,7 @@ For more details, see our `CONTRIBUTING.md` (coming soon).
 
 ## ⚠️ Disclaimer
 
-**UnityPilot is in early development.** This is an active work-in-progress project. Current functionality is limited, and the codebase is evolving rapidly. Star ⭐ the repo to follow development progress!
+**UnityCopilot is in early development.** This is an active work-in-progress project. Current functionality is limited, and the codebase is evolving rapidly. Star ⭐ the repo to follow development progress!
 
 ---
 
@@ -185,8 +185,8 @@ You're free to use, modify, and share — just credit the original authors.
 
 Follow updates and progress on:
 
-* [GitHub Repository](https://github.com/GameDevKaran/UnityPilot)
-* [Discussions](https://github.com/GameDevKaran/UnityPilot/discussions)
+* [GitHub Repository](https://github.com/GameDevKaran/UnityCopilot)
+* [Discussions](https://github.com/GameDevKaran/UnityCopilot/discussions)
 
 > Made with ❤️ for the Unity community 🚀
 
