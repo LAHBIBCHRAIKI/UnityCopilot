@@ -185,8 +185,8 @@ You're free to use, modify, and share — just credit the original authors.
 
 Follow updates and progress on:
 
-* [GitHub Issues](https://github.com/GameDevKaran/UnityPilot/issues)
-* [GitHub Projects](https://github.com/GameDevKaran/UnityPilot/projects)
+* [GitHub Repository](https://github.com/GameDevKaran/UnityPilot)
+* [Discussions](https://github.com/GameDevKaran/UnityPilot/discussions)
 
 > Made with ❤️ for the Unity community 🚀
 
